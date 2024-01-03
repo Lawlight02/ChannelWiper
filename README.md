@@ -1,6 +1,6 @@
 # Channel Wiper
 ## About
-- This code will delete your last 100 messages from the channel you are in
+- This code will delete your last 100 messages from the channel you are in (if you want delete all, then just paste it a couple of times)
 ## How to use?
 - Copy this snippet and paste into your console (to open use CTRL + SHIFT + I). If it doesn't open, do it in browser or figure it out
 ```js
